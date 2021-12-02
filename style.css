@@ -1,0 +1,21 @@
+* {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  color: black;
+}
+
+animal-intro {
+  color: black;
+  font-size: 24px;
+}
+
+.animal-name {
+  margin: auto;
+}
